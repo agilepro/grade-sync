@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <roster source="schoolloop.com">
+    <teachers>
+      <teacher localID="517" systemID="1253164461717" name="Fog2, David">
+        <courses>
+          <course systemID="1253164465199" name="SENIOR ENG SPR">
+            <periods>
+              <period systemID="1287818921103" number="1">
+                <students>
+                  <student permID="163373" systemID="1287818919495" gradeLevel="12" firstName="DEBBIE" middleName="" lastName="CHUNG" displayID="163373" localID="163373" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="164422" systemID="1287818919746" gradeLevel="12" firstName="CHRISTINE" middleName="" lastName="ALVAREZ" displayID="164422" localID="164422" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="165378" systemID="1287818919747" gradeLevel="12" firstName="HECTOR" middleName="" lastName="HARRIS" displayID="165378" localID="165378" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="164322" systemID="1287818919744" gradeLevel="12" firstName="CHANTEL" middleName="" lastName="PHAM" displayID="164322" localID="164322" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="164402" systemID="1287818919745" gradeLevel="12" firstName="JIMMY#2" middleName="" lastName="MCLEMORE" displayID="164402" localID="164402" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="173423" systemID="1287818919750" gradeLevel="12" firstName="AMBERCEE" middleName="" lastName="ARELLANO" displayID="173423" localID="173423" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="173107" systemID="1287818919748" gradeLevel="12" firstName="TOUMARIA" middleName="" lastName="AHUMADA" displayID="173107" localID="173107" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="173332" systemID="1287818919749" gradeLevel="12" firstName="DAYSI" middleName="" lastName="AMAYA" displayID="173332" localID="173332" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="164176" systemID="1253164463020" gradeLevel="10" firstName="LUIS" middleName="" lastName="DELACRUZ" displayID="164176" localID="164176" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163601" systemID="1287818919599" gradeLevel="12" firstName="THIEN" middleName="" lastName="PHAM" displayID="163601" localID="163601" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163469" systemID="1287818919733" gradeLevel="12" firstName="STEVE" middleName="" lastName="GARCIA" displayID="163469" localID="163469" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163409" systemID="1287818919732" gradeLevel="12" firstName="ALEXIS" middleName="" lastName="DIAZ" displayID="163409" localID="163409" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163524" systemID="1287818919735" gradeLevel="12" firstName="LEO" middleName="" lastName="LLAMAS" displayID="163524" localID="163524" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163471" systemID="1287818919734" gradeLevel="12" firstName="ISRAEL" middleName="" lastName="HUERTA" displayID="163471" localID="163471" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163341" systemID="1287818919731" gradeLevel="12" firstName="VANESSA" middleName="" lastName="CORTES" displayID="163341" localID="163341" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="162817" systemID="1287818919730" gradeLevel="12" firstName="GERARDO" middleName="" lastName="CORONA" displayID="162817" localID="162817" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="164101" systemID="1287818919741" gradeLevel="12" firstName="GABRIEL" middleName="" lastName="SUAREZ" displayID="164101" localID="164101" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="164100" systemID="1287818919740" gradeLevel="12" firstName="KIM-HONG" middleName="" lastName="SORIA" displayID="164100" localID="164100" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="164316" systemID="1287818919743" gradeLevel="12" firstName="BRETT" middleName="" lastName="VEJAR" displayID="164316" localID="164316" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="164262" systemID="1287818919588" gradeLevel="12" firstName="JOSHUA" middleName="" lastName="SANTANA" displayID="164262" localID="164262" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="164107" systemID="1287818919742" gradeLevel="12" firstName="KARLA" middleName="" lastName="VANDYKE" displayID="164107" localID="164107" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163758" systemID="1287818919737" gradeLevel="12" firstName="VICTOR" middleName="" lastName="PFEIFFER" displayID="163758" localID="163758" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163609" systemID="1287818919736" gradeLevel="12" firstName="GERARDO" middleName="" lastName="MORENO" displayID="163609" localID="163609" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163990" systemID="1287818919739" gradeLevel="12" firstName="ANH" middleName="" lastName="PHAN" displayID="163990" localID="163990" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163783" systemID="1253164462252" gradeLevel="10" firstName="FENG" middleName="" lastName="GONZALEZ" displayID="163783" localID="163783" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163840" systemID="1287818919738" gradeLevel="12" firstName="AMANDA" middleName="" lastName="PHAM" displayID="163840" localID="163840" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="164285" systemID="1253164463152" gradeLevel="10" firstName="SOPHORN" middleName="" lastName="ALVAREZ" displayID="164285" localID="164285" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="172776" systemID="1253164462438" gradeLevel="9" firstName="MAN" middleName="" lastName="LUC" displayID="172776" localID="172776" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163915" systemID="1287818919550" gradeLevel="12" firstName="HECTOR" middleName="" lastName="PANDURO" displayID="163915" localID="163915" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                  <student permID="163505" systemID="1287818919723" gradeLevel="12" firstName="KARINA" middleName="" lastName="VASQUEZ" displayID="163505" localID="163505" sectionID="en442-01" sectionSystemID="1287818920430"/>
+                </students>
+                <assignments>
+                  <assignment dueDate="2011-07-29T00:00:00Z" maxPoints="10.0" systemID="1311481016953" categoryName="Assignment" title="HW 1" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-07-30T00:00:00Z" maxPoints="10.0" systemID="1311481016968" categoryName="Assignment" title="HW 2" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-08-01T00:00:00Z" maxPoints="10.0" systemID="1311481016972" categoryName="Assignment" title="HW 3" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-08-05T00:00:00Z" maxPoints="100.0" systemID="1311481016993" categoryName="Quiz" title="Quiz Unit 1" categoryID="1309947483507"/>
+                </assignments>
+              </period>
+              <period systemID="1287818921149" number="2">
+                <students>
+                  <student permID="173145" systemID="1287818919763" gradeLevel="12" firstName="TONY" middleName="" lastName="CORDON" displayID="173145" localID="173145" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="164452" systemID="1287818919762" gradeLevel="12" firstName="SASIPRAPA" middleName="" lastName="CRESPO" displayID="164452" localID="164452" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="164345" systemID="1287818919761" gradeLevel="12" firstName="MANUEL" middleName="" lastName="PANAVARAVATN" displayID="164345" localID="164345" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="164227" systemID="1287818919760" gradeLevel="12" firstName="GUAN" middleName="" lastName="SANCHEZ" displayID="164227" localID="164227" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="164346" systemID="1253164462028" gradeLevel="11" firstName="THOMAS" middleName="" lastName="TOLY" displayID="164346" localID="164346" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="173644" systemID="1287818919764" gradeLevel="12" firstName="CARLOS" middleName="" lastName="COVARRUBIAS" displayID="173644" localID="173644" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="164417" systemID="1287818919557" gradeLevel="12" firstName="ANTHONY" middleName="" lastName="ZENDEJAS" displayID="164417" localID="164417" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163640" systemID="1253164463177" gradeLevel="10" firstName="ERENDIRA" middleName="" lastName="RUEDAS" displayID="163640" localID="163640" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163281" systemID="1253164463176" gradeLevel="11" firstName="OMAR" middleName="" lastName="LOPEZ" displayID="163281" localID="163281" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="164484" systemID="1253164463449" gradeLevel="11" firstName="CESAR" middleName="" lastName="QUINTERO" displayID="164484" localID="164484" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="164388" systemID="1253164463498" gradeLevel="11" firstName="EDUARDO" middleName="" lastName="HUANG" displayID="164388" localID="164388" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163811" systemID="1253164463256" gradeLevel="11" firstName="ANGEL" middleName="" lastName="KHIEV" displayID="163811" localID="163811" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="162304" systemID="1287818919751" gradeLevel="12" firstName="GEORGE" middleName="" lastName="CARRASCO" displayID="162304" localID="162304" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163884" systemID="1253164462836" gradeLevel="10" firstName="PHELICIA" middleName="" lastName="BALDOVIN" displayID="163884" localID="163884" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163406" systemID="1287818919754" gradeLevel="12" firstName="JACQUELINE" middleName="" lastName="GONZALEZ" displayID="163406" localID="163406" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163462" systemID="1287818919755" gradeLevel="12" firstName="CLAUDIA" middleName="" lastName="GRANDE" displayID="163462" localID="163462" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163305" systemID="1287818919752" gradeLevel="12" firstName="AMANDA" middleName="" lastName="CONTRERAS" displayID="163305" localID="163305" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163322" systemID="1287818919753" gradeLevel="12" firstName="ANGELA" middleName="" lastName="GOMEZ" displayID="163322" localID="163322" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163680" systemID="1287818919758" gradeLevel="12" firstName="PHILLIP" middleName="" lastName="TOPETE" displayID="163680" localID="163680" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="173129" systemID="1253164462100" gradeLevel="9" firstName="ALEXANDRA" middleName="" lastName="BERNAL" displayID="173129" localID="173129" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="164118" systemID="1287818919759" gradeLevel="12" firstName="MARLENE" middleName="" lastName="WANG" displayID="164118" localID="164118" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163642" systemID="1287818919756" gradeLevel="12" firstName="ERIK" middleName="" lastName="PLACIDO" displayID="163642" localID="163642" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163658" systemID="1287818919757" gradeLevel="12" firstName="TYLER" middleName="" lastName="RODRIGUEZ" displayID="163658" localID="163658" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="168923" systemID="1287818919648" gradeLevel="12" firstName="CHRISTIANE" middleName="" lastName="PATEL" displayID="168923" localID="168923" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="163900" systemID="1287818919724" gradeLevel="12" firstName="GUILLERMO" middleName="" lastName="ZUNIGA" displayID="163900" localID="163900" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="164319" systemID="1253164461887" gradeLevel="11" firstName="ANGEL" middleName="" lastName="HANG" displayID="164319" localID="164319" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="169221" systemID="1253164463464" gradeLevel="11" firstName="MARCELA" middleName="" lastName="MENDOZA" displayID="169221" localID="169221" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                  <student permID="164125" systemID="1287818919603" gradeLevel="12" firstName="JOSELYN" middleName="" lastName="VASQUEZ" displayID="164125" localID="164125" sectionID="en442-02" sectionSystemID="1287818920431"/>
+                </students>
+                <assignments>
+                  <assignment dueDate="2011-07-29T00:00:00Z" maxPoints="10.0" systemID="1311481016953" categoryName="Assignment" title="HW 1" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-07-30T00:00:00Z" maxPoints="10.0" systemID="1311481016968" categoryName="Assignment" title="HW 2" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-08-01T00:00:00Z" maxPoints="10.0" systemID="1311481016972" categoryName="Assignment" title="HW 3" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-08-05T00:00:00Z" maxPoints="100.0" systemID="1311481016993" categoryName="Quiz" title="Quiz Unit 1" categoryID="1309947483507"/>
+                </assignments>
+              </period>
+              <period systemID="1287818921151" number="3">
+                <students>
+                  <student permID="163482" systemID="1287818919767" gradeLevel="12" firstName="JOSHUA" middleName="" lastName="MARTINEZ" displayID="163482" localID="163482" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163466" systemID="1287818919766" gradeLevel="12" firstName="PALOMA" middleName="" lastName="LOPEZ" displayID="163466" localID="163466" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="162477" systemID="1287818919765" gradeLevel="12" firstName="KATHERINE" middleName="" lastName="COVARRUBIAS" displayID="162477" localID="162477" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="165186" systemID="1253164462424" gradeLevel="11" firstName="STEPHANIE#4" middleName="" lastName="LY" displayID="165186" localID="165186" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163686" systemID="1253164462154" gradeLevel="10" firstName="OSWALDO" middleName="" lastName="MENDEZ" displayID="163686" localID="163686" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163939" systemID="1287818919771" gradeLevel="12" firstName="EMMANUEL" middleName="" lastName="OJEDA" displayID="163939" localID="163939" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163420" systemID="1287818919496" gradeLevel="12" firstName="RAYMOND" middleName="" lastName="DAM" displayID="163420" localID="163420" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="164465" systemID="1253164462018" gradeLevel="11" firstName="FORTINO" middleName="" lastName="ORTIZ" displayID="164465" localID="164465" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163916" systemID="1287818919770" gradeLevel="12" firstName="ALBERTO" middleName="" lastName="MORENO" displayID="163916" localID="163916" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163856" systemID="1287818919769" gradeLevel="12" firstName="JULIANNA" middleName="" lastName="MONTOYA" displayID="163856" localID="163856" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163483" systemID="1287818919768" gradeLevel="12" firstName="NATALIE#1" middleName="" lastName="MENDEZ" displayID="163483" localID="163483" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="164313" systemID="1287818919775" gradeLevel="12" firstName="SAMMANTHA" middleName="" lastName="FABIAN" displayID="164313" localID="164313" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="164039" systemID="1287818919774" gradeLevel="12" firstName="ASAHEL" middleName="" lastName="ZUNIGA" displayID="164039" localID="164039" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163986" systemID="1287818919773" gradeLevel="12" firstName="SALLY" middleName="" lastName="VALDEZ" displayID="163986" localID="163986" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="164424" systemID="1253164461952" gradeLevel="11" firstName="NHI" middleName="" lastName="ESPINOZA" displayID="164424" localID="164424" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163974" systemID="1287818919772" gradeLevel="12" firstName="NADIA" middleName="" lastName="SOLIS" displayID="163974" localID="163974" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163746" systemID="1253164462835" gradeLevel="11" firstName="JOSE" middleName="" lastName="JARAMILLO" displayID="163746" localID="163746" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163028" systemID="1253164463073" gradeLevel="10" firstName="DANIEL" middleName="" lastName="CAMPOS" displayID="163028" localID="163028" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163754" systemID="1287818919642" gradeLevel="12" firstName="LONG" middleName="" lastName="VO" displayID="163754" localID="163754" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163883" systemID="1253164463497" gradeLevel="11" firstName="CRYSTAL" middleName="" lastName="MOLINA" displayID="163883" localID="163883" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163527" systemID="1287818919513" gradeLevel="12" firstName="MIGUEL" middleName="" lastName="LEE" displayID="163527" localID="163527" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="164153" systemID="1287818919518" gradeLevel="12" firstName="EDGAR" middleName="" lastName="VUONG" displayID="164153" localID="164153" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="164590" systemID="1253164462585" gradeLevel="9" firstName="JULIO" middleName="" lastName="MOLINA" displayID="164590" localID="164590" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="164351" systemID="1253164462584" gradeLevel="9" firstName="BRIAN#2" middleName="" lastName="MARTINEZ" displayID="164351" localID="164351" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="164391" systemID="1287818919776" gradeLevel="12" firstName="SERGIO" middleName="" lastName="MENDOZA" displayID="164391" localID="164391" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="163404" systemID="1287818919615" gradeLevel="12" firstName="JULIAN#1" middleName="" lastName="NAREZ" displayID="163404" localID="163404" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="164497" systemID="1287818919777" gradeLevel="12" firstName="DESIREE" middleName="" lastName="TRUJILLO" displayID="164497" localID="164497" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                  <student permID="164409" systemID="1253164461951" gradeLevel="11" firstName="KIN-MAN" middleName="" lastName="DANG" displayID="164409" localID="164409" sectionID="en442-03" sectionSystemID="1287818920432"/>
+                </students>
+                <assignments>
+                  <assignment dueDate="2011-07-29T00:00:00Z" maxPoints="10.0" systemID="1311481016953" categoryName="Assignment" title="HW 1" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-07-30T00:00:00Z" maxPoints="10.0" systemID="1311481016968" categoryName="Assignment" title="HW 2" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-08-01T00:00:00Z" maxPoints="10.0" systemID="1311481016972" categoryName="Assignment" title="HW 3" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-08-05T00:00:00Z" maxPoints="100.0" systemID="1311481016993" categoryName="Quiz" title="Quiz Unit 1" categoryID="1309947483507"/>
+                </assignments>
+              </period>
+              <period systemID="1287818921261" number="4">
+                <students>
+                  <student permID="176683" systemID="1287818919710" gradeLevel="12" firstName="MARCO" middleName="" lastName="JAIME" displayID="176683" localID="176683" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="164047" systemID="1287818919552" gradeLevel="12" firstName="MAYRA" middleName="" lastName="RAMIREZ" displayID="164047" localID="164047" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="168958" systemID="1253164461904" gradeLevel="9" firstName="KENYA" middleName="" lastName="CARRILLO" displayID="168958" localID="168958" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="164405" systemID="1253164461976" gradeLevel="11" firstName="JAIME" middleName="" lastName="LIEU" displayID="164405" localID="164405" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="164022" systemID="1253164461974" gradeLevel="11" firstName="MAYRA" middleName="" lastName="LIN" displayID="164022" localID="164022" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163463" systemID="1287818919575" gradeLevel="12" firstName="REYNA" middleName="" lastName="GUTIERREZ" displayID="163463" localID="163463" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163323" systemID="1287818919533" gradeLevel="12" firstName="NATALIE#2" middleName="" lastName="MUNOZ" displayID="163323" localID="163323" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="164408" systemID="1253164461935" gradeLevel="11" firstName="DARLA" middleName="" lastName="MROTEK" displayID="164408" localID="164408" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="162538" systemID="1287818919778" gradeLevel="12" firstName="NICOLAS #1" middleName="" lastName="ANDRETTI" displayID="162538" localID="162538" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="162827" systemID="1287818919779" gradeLevel="12" firstName="MICHAEL" middleName="" lastName="COTA" displayID="162827" localID="162827" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163190" systemID="1287818919780" gradeLevel="12" firstName="NICOLE" middleName="" lastName="KNAPP" displayID="163190" localID="163190" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163860" systemID="1287818919610" gradeLevel="12" firstName="TINH" middleName="" lastName="VARGAS" displayID="163860" localID="163860" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163310" systemID="1287818919781" gradeLevel="12" firstName="RUSSELL" middleName="" lastName="LANDEROS" displayID="163310" localID="163310" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163479" systemID="1287818919782" gradeLevel="12" firstName="ADRIANA" middleName="" lastName="LOPEZ" displayID="163479" localID="163479" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163793" systemID="1287818919783" gradeLevel="12" firstName="JAVIER" middleName="" lastName="MARTINEZ" displayID="163793" localID="163793" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="164271" systemID="1253164462856" gradeLevel="10" firstName="LUIS" middleName="" lastName="BANUELOS" displayID="164271" localID="164271" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163805" systemID="1287818919784" gradeLevel="12" firstName="CARLOS" middleName="" lastName="MESA" displayID="163805" localID="163805" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163852" systemID="1287818919785" gradeLevel="12" firstName="IRENE" middleName="" lastName="MORALES" displayID="163852" localID="163852" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163898" systemID="1287818919786" gradeLevel="12" firstName="DIEGO" middleName="" lastName="REYNAGA" displayID="163898" localID="163898" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163958" systemID="1287818919787" gradeLevel="12" firstName="REYNALDO" middleName="" lastName="SANTIZO" displayID="163958" localID="163958" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163980" systemID="1287818919788" gradeLevel="12" firstName="JESSICA" middleName="" lastName="ADAME" displayID="163980" localID="163980" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="164184" systemID="1287818919789" gradeLevel="12" firstName="GILBERT" middleName="" lastName="ALBARRAN" displayID="164184" localID="164184" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="163246" systemID="1287818919722" gradeLevel="12" firstName="DEANA" middleName="" lastName="MORA" displayID="163246" localID="163246" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                  <student permID="164294" systemID="1287818919790" gradeLevel="12" firstName="CASEY" middleName="" lastName="ARANDA" displayID="164294" localID="164294" sectionID="en442-04" sectionSystemID="1287818920433"/>
+                </students>
+                <assignments>
+                  <assignment dueDate="2011-07-29T00:00:00Z" maxPoints="10.0" systemID="1311481016953" categoryName="Assignment" title="HW 1" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-07-30T00:00:00Z" maxPoints="10.0" systemID="1311481016968" categoryName="Assignment" title="HW 2" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-08-01T00:00:00Z" maxPoints="10.0" systemID="1311481016972" categoryName="Assignment" title="HW 3" categoryID="1309947483504"/>
+                  <assignment dueDate="2011-08-05T00:00:00Z" maxPoints="100.0" systemID="1311481016993" categoryName="Quiz" title="Quiz Unit 1" categoryID="1309947483507"/>
+                </assignments>
+              </period>
+            </periods>
+          </course>
+          <course systemID="1253164465581" name="ENG 1 SPR P">
+            <periods>
+              <period systemID="1287818921409" number="0">
+                <students>
+                  <student permID="174395" systemID="1253164462237" gradeLevel="9" firstName="BRIAN" middleName="" lastName="PANDURO" displayID="174395" localID="174395" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="176752" systemID="1253164462665" gradeLevel="9" firstName="IXTLALIC" middleName="" lastName="CARRILLO" displayID="176752" localID="176752" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="176610" systemID="1253164462664" gradeLevel="10" firstName="SAMANTHA" middleName="" lastName="SAUCEDO" displayID="176610" localID="176610" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="177276" systemID="1287818919658" gradeLevel="12" firstName="MIGUEL" middleName="" lastName="XU" displayID="177276" localID="177276" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="174451" systemID="1253164462240" gradeLevel="9" firstName="SARAH" middleName="" lastName="ROBERTS" displayID="174451" localID="174451" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="167573" systemID="1253164462657" gradeLevel="9" firstName="JOHN#2" middleName="" lastName="CHAVEZ" displayID="167573" localID="167573" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="170335" systemID="1253164462659" gradeLevel="9" firstName="JODIE" middleName="" lastName="GARCIA" displayID="170335" localID="170335" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="168237" systemID="1253164462658" gradeLevel="9" firstName="RUDY" middleName="" lastName="DU" displayID="168237" localID="168237" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="169865" systemID="1253164462050" gradeLevel="10" firstName="MELISSA" middleName="" lastName="LUONG" displayID="169865" localID="169865" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="173940" systemID="1253164462661" gradeLevel="9" firstName="JACOB" middleName="" lastName="BURTON" displayID="173940" localID="173940" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="173860" systemID="1253164462660" gradeLevel="9" firstName="DEBORAH" middleName="" lastName="GONZALEZ" displayID="173860" localID="173860" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="175586" systemID="1253164462118" gradeLevel="9" firstName="SAMUEL" middleName="" lastName="SERRANO" displayID="175586" localID="175586" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="174063" systemID="1253164462663" gradeLevel="10" firstName="MARTHA" middleName="" lastName="FRUM" displayID="174063" localID="174063" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="174016" systemID="1253164462662" gradeLevel="9" firstName="SEAN" middleName="" lastName="GUZMAN" displayID="174016" localID="174016" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="176972" systemID="1287818919652" gradeLevel="12" firstName="DANIEL" middleName="" lastName="BACA" displayID="176972" localID="176972" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="174241" systemID="1253164462201" gradeLevel="9" firstName="IRMA" middleName="" lastName="MANNARELLI" displayID="174241" localID="174241" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="174218" systemID="1253164462064" gradeLevel="9" firstName="CARINA" middleName="" lastName="VUONG" displayID="174218" localID="174218" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                  <student permID="173923" systemID="1253164462133" gradeLevel="9" firstName="JENNIFER" middleName="" lastName="DUONG" displayID="173923" localID="173923" sectionID="en143-21" sectionSystemID="1287818920429"/>
+                </students>
+                <assignments/>
+              </period>
+            </periods>
+          </course>
+        </courses>
+        <categories>
+          <category systemID="1309947483504" name="Assignment"/>
+          <category systemID="1309947483505" name="Test"/>
+          <category systemID="1309947483506" name="Homework"/>
+          <category systemID="1309947483507" name="Quiz"/>
+          <category systemID="1309947483508" name="Project"/>
+          <category systemID="1309947483509" name="Paper"/>
+          <category systemID="1309947483510" name="Discussion"/>
+          <category systemID="1309947483511" name="Extra Credit"/>
+        </categories>
+      </teacher>
+    </teachers>
+  </roster>
+</root>

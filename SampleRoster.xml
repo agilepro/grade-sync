@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+  <roster source="schoolloop.com">
+    <categories>
+      <category name="Assignment" systemID="1154464317389"/>
+      <category name="Test" systemID="1154464317390"/>
+      <category name="Homework" systemID="1154464317391"/>
+    </categories>
+    <courses>
+      <course name="English 3" systemID="1154426988178">
+        <sections>
+          <section number="1" systemID="en442-01">
+            <assignments>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="10" 
+                          systemID="1311481016953" title="HW 1"/>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="10" 
+                          systemID="1311481016968" title="HW 2"/>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="10" 
+                          systemID="1311481016972" title="HW 3"/>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="100" 
+                          systemID="1311481016993" title="Quiz Unit 1"/>
+            </assignments>
+            <students>
+              <student displayID="1020627" firstName="Steve" gradeLevel="10" lastName="Jones" 
+              	       localID="354" middleName="" permID="1020627" systemID="115446969941"/>
+              <student displayID="1020709" firstName="John" gradeLevel="10" lastName="Smith" 
+              	       localID="358" middleName="I" permID="1020709" systemID="115442970299"/>
+            </students>
+          </section>
+          <section number="2" systemID="en442-02">
+            <assignments>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="10" 
+                          systemID="1311481017074" title="HW 1"/>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="10" 
+                          systemID="1311481017080" title="HW 2"/>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="10" 
+                          systemID="1311481017082" title="HW 3"/>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="100" 
+                          systemID="1311481017089" title="Quiz Unit 1"/>
+            </assignments>
+            <students>
+              <student displayID="1052816" firstName="Aly" gradeLevel="10" lastName="Oop" 
+              	       localID="424" middleName="M" permID="1052816" systemID="115442970550"/>
+              <student displayID="1020595" firstName="Candy" gradeLevel="10" lastName="Apple" 
+                       localID="316" middleName="" permID="1020595" systemID="115442669876"/>
+            </students>
+          </section>
+        </sections>
+      </course>
+      <course name="Honors English" systemID="1154426988494">
+        <sections>
+          <section number="8" systemID="en442-06">
+            <assignments>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="10" 
+                          systemID="1311481017444" title="HW 1"/>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="10" 
+                          systemID="1311481017440" title="HW 2"/>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="10" 
+                          systemID="1311481017442" title="HW 3"/>
+              <assignment categoryID="1154464317389" categoryName="Assignment" 
+                          dueDate="2007-03-11T00:00:00Z" maxPoints="100" 
+                          systemID="1311481017449" title="Quiz Unit 1"/>
+            </assignments>
+            <students>
+              <student displayID="1052816" firstName="Aly" gradeLevel="10" lastName="Oop" 
+              	       localID="424" middleName="M" permID="1052816" systemID="115442970550"/>
+              <student displayID="1020595" firstName="Candy" gradeLevel="10" lastName="Apple" 
+              	       localID="316" middleName="" permID="1020595" systemID="115442669876"/>
+            </students>
+          </section>
+        </sections>
+      </course>
+    </courses>
+  </roster>
+</root>
