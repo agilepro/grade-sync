@@ -6,13 +6,11 @@ This all goes in moodle/grade/export/sl/
 
 The sl_config.php is then modified for the teachers involved.   This contains a table with an entry for each teacher indexed by their user id that they log into moodle with.  It looks like this:
 
-{teacher's moodle login} => array(
-
-    'url'       => {the URL for schoolloop ... same for evryone},
-    'teacherid' => {the teacher ID in schoolloop}
-    'apiuser'   => {a special schoolloop user account for dong the transfer, same for everyone},
-    'apipass'   => {password for the apiuser, same for everyone}
-    
+    {teacher's moodle login} => array(
+        'url'       => {the URL for schoolloop ... same for evryone},
+        'teacherid' => {the teacher ID in schoolloop}
+        'apiuser'   => {a special schoolloop user account for dong the transfer, same for everyone},
+        'apipass'   => {password for the apiuser, same for everyone}
     )
     
     
