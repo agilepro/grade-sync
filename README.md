@@ -14,5 +14,5 @@ The sl_config.php is then modified for the teachers involved.   This contains a 
     )
     
     
-To set up a given teacher, first get their moodle login id.  Then the teacherid from Schoolloop.  The teacher id is had t find there, and might not be accessible to the teacher themselves.  It is not their login ID for schoolloop, it is a 6-digit number value that appears to the administrator.   If you are all synchronizing to the same schoolloop, then the other three values will be the same for everyone.
+To set up a given teacher, first get their moodle login id.  Then the teacherid from Schoolloop.  The teacher id is not their login ID for schoolloop, it is a 6-digit number value that appears to the administrator and it can be hard to find.  Last I checked there was no way for a teacher to find out their own teacher id.   If you are all synchronizing to the same schoolloop, then the other three values will be the same for everyone.
 
